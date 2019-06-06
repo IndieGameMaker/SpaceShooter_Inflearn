@@ -2,7 +2,7 @@
 
 ## SpaceShooter 인프런 동영상 리소스
 
-- [리소스 압축파일 전체]()
+- [리소스 압축파일 전체](https://1drv.ms/u/s!Asker0nVo1TSyM82U-cL6z6Bz20iVQ)
 
 - [텍스처 리소스](https://1drv.ms/u/s!Asker0nVo1TSyM8msSkaQo866kqqzw)
 - [주인공 캐릭터 모델](https://1drv.ms/u/s!Asker0nVo1TSyM8qKAv-TPwLcG9uCw)
