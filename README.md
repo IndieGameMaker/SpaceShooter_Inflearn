@@ -10,3 +10,23 @@
 - [총알 모델](https://1drv.ms/u/s!Asker0nVo1TSyM8oLtaMg6KHqQLw9A)
 - [드럼통 모델](https://1drv.ms/u/s!Asker0nVo1TSyM8sl_zM1ZCgP2g1nQ)
 - [사운드 파일](https://1drv.ms/u/s!Asker0nVo1TSyM81i9HOmh0POsw7Gw)
+
+## 프로젝트 파일
+
+각 챕터의 완성된 프로젝트 파일입니다.
+
+- [1장. 배경생성]()
+- [2장. 주인공 캐릭터 구현]()
+
+## 스크립트 소스 파일(gist)
+
+각 챕터별 스크립트 소스파일 입니다.
+
+### 2장 주인공 캐릭터 구현
+- [PlayerCtrl 스크립트]()
+- [FireCtrl 스크립트]()
+- [BulletCtrl 스크립트]()
+
+### 3장 
+
+### 4장
